@@ -1,5 +1,5 @@
 requests==2.28.2
 streamlit==1.8.1
-pysqlite
+db-sqlite3
 pyshorteners==1.0.1
 
